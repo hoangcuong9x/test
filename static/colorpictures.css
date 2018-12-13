@@ -76,3 +76,56 @@ head, body{
     border: 2px solid;
     border-radius: 25px;
 }
+.back{
+    font-family: 'Ubuntu';
+    height: 25px;
+    width: 80px;
+    background: yellow;
+    font-size: 70%;
+    border: 2px solid;
+    border-bottom-left-radius: 25px;
+    margin-right: 100%;
+}
+.pictures{
+    height: 250px;
+    width: 250px;
+    border: 2px rgb(19, 139, 29);
+}
+.nut_pic{
+    font-family: 'Ubuntu';
+    height: 25px;
+    width: 250px;
+    background: #ffffff;
+    font-size: 70%;
+    border: 2px solid;
+    border-radius: 25px;
+}
+#post{
+    width: 70%;
+    height: 100%;
+    background: #ffffff;
+    float: left;
+}
+#sidebar{
+    width: 30%;
+    height: 100%;
+    background: #ffffff;
+    float: right;
+}
+.cong_cu{
+    font-family: 'Ubuntu';
+    height: 30px;
+    width: 150px;
+    background: rgb(42, 165, 48);
+    font-size: 70%;
+    border: 2px solid;
+    border-radius: 25px;
+}
+.khoang_trang{
+    height: 30px;
+}
+.tomau{
+    height: 50%;
+    width: 50%;
+    border: 2px;
+}
